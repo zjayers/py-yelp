@@ -1,8 +1,7 @@
 # Py-Yelp
-[![GitHub Release](https://img.shields.io/github/release/zjayers/py-yelp.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/py-yelp.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/py-yelp.svg?style=flat)](https://github.com/zjayers/py-yelp/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/py-yelp.svg?style=flat)](https://github.com/zjayers/py-yelp/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/py-yelp.svg?maxAge=25000)](https://github.com/zjayers/py-yelp/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/py-yelp/blob/master/LICENSEs)
 
 ## Description
 
